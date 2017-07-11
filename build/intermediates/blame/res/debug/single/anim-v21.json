@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Batman\\AndroidStudioProjects\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\Batman\\.android\\build-cache\\b898c51cca0568dbace82431fd6d95b1bd362f87\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Batman\\AndroidStudioProjects\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\fab_state_list_anim.xml",
+        "source": "C:\\Users\\Batman\\AndroidStudioProjects\\xyz-reader-starter-code-master\\XYZReader\\src\\main\\res\\anim-v21\\fab_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Batman\\AndroidStudioProjects\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Batman\\.android\\build-cache\\8df6d1dac63d52c5c3836628ad9a87e8859c47e7\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Batman\\AndroidStudioProjects\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Batman\\.android\\build-cache\\8df6d1dac63d52c5c3836628ad9a87e8859c47e7\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]
