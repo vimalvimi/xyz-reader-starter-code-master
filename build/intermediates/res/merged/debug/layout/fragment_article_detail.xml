@@ -21,6 +21,7 @@
                 android:background="?attr/colorPrimary"
                 android:layout_marginBottom="@dimen/detail_metabar_vert_padding">
                 <ImageView
+                    android:contentDescription="@string/fullbleed_image"
                     android:id="@+id/photo"
                     android:layout_width="match_parent"
                     android:layout_height="365dp"
@@ -73,7 +74,7 @@
                     android:layout_marginLeft="@dimen/detail_inner_horiz_margin"
                     android:layout_marginRight="@dimen/detail_inner_horiz_margin"
                     android:paddingBottom="@dimen/detail_body_bottom_margin"
-                    android:textColorLink="@color/primary_text" />
+                    android:textColorLink="@color/theme_accent" />
 
             </com.example.xyzreader.ui.MaxWidthLinearLayout>
         </LinearLayout>

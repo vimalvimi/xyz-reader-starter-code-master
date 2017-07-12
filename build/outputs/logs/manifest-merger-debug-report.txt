@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Batman\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:1:1-48:12
+ADDED from C:\Users\Batman\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:1:1-46:12
 	package
 		ADDED from C:\Users\Batman\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:2:5-36
 	android:versionName
@@ -30,7 +30,7 @@ ADDED from C:\Users\Batman\AndroidStudioProjects\xyz-reader-starter-code-master\
 	android:name
 		ADDED from C:\Users\Batman\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:9:22-76
 application
-ADDED from C:\Users\Batman\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:11:5-46:19
+ADDED from C:\Users\Batman\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\src\main\AndroidManifest.xml:11:5-45:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\Batman\.android\build-cache\8df6d1dac63d52c5c3836628ad9a87e8859c47e7\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:transition:25.3.1] C:\Users\Batman\.android\build-cache\dab830320951af9a49709a103f4070135b63f27b\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Batman\.android\build-cache\7a295b8fd1d482b989e21b3c23997abf7beb1189\output\AndroidManifest.xml:29:5-20
